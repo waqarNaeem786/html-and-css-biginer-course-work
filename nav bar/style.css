@@ -1,0 +1,75 @@
+
+
+
+
+.object{
+	
+	border: 2px solid black;
+	height: 200px;
+	width: 200px;
+	animation-name: pc;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	text-align: center;
+	line-height: 200px;
+	font-size: 25px;
+	color:white;
+
+}
+
+.object:hover{
+
+transform: rotate(45deg);
+transition: 5s;
+}
+
+@keyframes pc{
+
+0%{
+
+background: red;
+
+
+}
+
+20%{
+
+background: orange;
+border-radius:20%;
+
+}
+
+
+40%{
+
+background: blue;
+
+border-radius: 40%;
+
+}
+
+60%{
+
+background: teal;
+
+border-radius: 60%;
+
+}
+
+80%{
+
+background: magenta;
+
+border-radius: 80%;
+
+}
+
+100%{
+
+background: aqua;
+border-radius: 100%;
+
+}
+
+
+}

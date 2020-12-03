@@ -1,0 +1,234 @@
+
+
+
+.object{
+	border: 2px solid red;
+	height: 200px;
+	width: 200px;
+	animation-name: pc;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	text-align: center;
+	line-height: 200px;
+	font-size: 20px;
+}
+
+
+ .object:hover{
+ 	transform: rotate(360deg);
+ 	transition: 5s;
+ }
+@keyframes pc{
+                   
+        
+        0%{
+        	background-color: red;
+        }
+
+          20%{
+        	background-color: orange;
+        	border-radius: 20%;
+        }
+
+          40%{
+        	background-color: lightgreen;
+        	border-radius: 40%;
+        }
+
+          60%{
+        	background-color: magenta;
+        	border-radius: 60%;
+        }
+
+          80%{
+        	background-color: blue;
+        	border-radius: 80%;
+
+        }
+
+          100%{
+        	background-color: aqua;
+        	border-radius: 100%;
+        }
+
+
+
+}
+
+
+
+
+.object2{
+	border: 2px solid red;
+	height: 200px;
+	width: 200px;
+	animation-name: pc;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+    float: -200px;
+	text-align: center;
+	line-height: 200px;
+	font-size: 20px;
+
+}
+
+
+ .object2:hover{
+ 	transform: rotate(360deg);
+ 	transition: 5s;
+ }
+@keyframes pc{
+                   
+        
+        0%{
+        	background-color: red;
+        }
+
+          20%{
+        	background-color: orange;
+        	border-radius: 20%;
+        }
+
+          40%{
+        	background-color: lightgreen;
+        	border-radius: 40%;
+        }
+
+          60%{
+        	background-color: magenta;
+        	border-radius: 60%;
+        }
+
+          80%{
+        	background-color: blue;
+        	border-radius: 80%;
+
+        }
+
+          100%{
+        	background-color: aqua;
+        	border-radius: 100%;
+        }
+
+
+
+
+}
+
+
+
+
+
+.object3{
+	border: 2px solid red;
+	height: 200px;
+	width: 200px;
+	animation-name: pc;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	text-align: center;
+	line-height: 200px;
+	font-size: 20px;
+}
+
+
+ .object3:hover{
+ 	transform: rotate(360deg);
+ 	transition: 5s;
+ }
+@keyframes pc{
+                   
+        
+        0%{
+        	background-color: red;
+        }
+
+          20%{
+        	background-color: orange;
+        	border-radius: 20%;
+        }
+
+          40%{
+        	background-color: lightgreen;
+        	border-radius: 40%;
+        }
+
+          60%{
+        	background-color: magenta;
+        	border-radius: 60%;
+        }
+
+          80%{
+        	background-color: blue;
+        	border-radius: 80%;
+
+        }
+
+          100%{
+        	background-color: aqua;
+        	border-radius: 100%;
+        }
+
+
+
+
+}
+
+
+
+
+
+.object4{
+	border: 2px solid red;
+	height: 200px;
+	width: 200px;
+	animation-name: pc;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	text-align: center;
+	line-height: 200px;
+	font-size: 20px;
+}
+
+
+ .object4:hover{
+ 	transform: rotate(360deg);
+ 	transition: 5s;
+ }
+@keyframes pc{
+                   
+        
+        0%{
+        	background-color: red;
+        }
+
+          20%{
+        	background-color: orange;
+        	border-radius: 20%;
+        }
+
+          40%{
+        	background-color: lightgreen;
+        	border-radius: 40%;
+        }
+
+          60%{
+        	background-color: magenta;
+        	border-radius: 60%;
+        }
+
+          80%{
+        	background-color: blue;
+        	border-radius: 80%;
+
+        }
+
+          100%{
+        	background-color: aqua;
+        	border-radius: 100%;
+        }
+
+
+
+
+}

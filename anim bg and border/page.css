@@ -1,0 +1,165 @@
+.object{
+border: 2px solid black;
+height: 200px;
+width: 200px;
+animation-name: pc;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+
+}
+
+@keyframes pc{
+	0%{
+		background-color: orange;
+	}
+
+	20%{
+		background-color: red
+		border-radius: 20%;
+
+	}
+	40%{
+		background-color: yellow;
+		border-radius: 40%;
+	}
+	60%{
+		background-color: teal;
+		border-radius: 60%
+	}
+	80%{
+        background-color: magenta;
+        border-radius: 80%
+	}
+	100%{
+		background-color: violet;
+		border-radius: 100%
+	}
+}
+
+
+
+.object2{
+border: 2px solid black;
+height: 200px;
+width: 200px;
+animation-name: pc;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+
+}
+
+@keyframes pc{
+	0%{
+		background-color: orange;
+	}
+
+	20%{
+		background-color: red
+		border-radius: 20%;
+
+	}
+	40%{
+		background-color: yellow;
+		border-radius: 40%;
+	}
+	60%{
+		background-color: teal;
+		border-radius: 60%
+	}
+	80%{
+        background-color: magenta;
+        border-radius: 80%
+	}
+	100%{
+		background-color: violet;
+		border-radius: 100%
+	}
+}
+
+
+.object3{
+border: 2px solid black;
+height: 200px;
+width: 200px;
+animation-name: pc;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+text-align: center;
+line-height: 50px;
+float: right;
+margin-top: -200px;
+margin-right: 934px;
+
+
+
+}
+
+@keyframes pc{
+	0%{
+		background-color: orange;
+	}
+
+	20%{
+		background-color: red
+		border-radius: 20%;
+
+	}
+	40%{
+		background-color: yellow;
+		border-radius: 40%;
+	}
+	60%{
+		background-color: teal;
+		border-radius: 60%
+	}
+	80%{
+        background-color: magenta;
+        border-radius: 80%
+	}
+	100%{
+		background-color: violet;
+		border-radius: 100%
+	}
+}
+
+
+.object4{
+border: 2px solid black;
+height: 200px;
+width: 200px;
+animation-name: pc;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+float: right;
+margin-top: -410px;
+margin-right: 930px;
+
+}
+
+@keyframes pc{
+	0%{
+		background-color: orange;
+	}
+
+	20%{
+		background-color: red
+		border-radius: 20%;
+
+	}
+	40%{
+		background-color: yellow;
+		border-radius: 40%;
+	}
+	60%{
+		background-color: teal;
+		border-radius: 60%
+	}
+	80%{
+        background-color: magenta;
+        border-radius: 80%
+	}
+	100%{
+		background-color: violet;
+		border-radius: 100%
+	}
+}
